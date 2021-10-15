@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from wpc2021.live/login by HTTrack Website Copier/3.x [XR&CO'2017], Fri, 15 Oct 2021 07:34:06 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <title>WPC2021</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="csrf-token" content="BPMbj8MqsH64U9oJ8NkQlTuhFwP2k11NvdSBg0Pn">
+    <link rel="shortcut icon" href="favicon.html">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
+    <link href="../external.html?link=https://fonts.googleapis.com/css?family=Montserrat:400,700%7CSource+Sans+Pro:400,700" rel="stylesheet">
+    <link href="theme/frontend/alpha/build/assets/vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="theme/frontend/alpha/build/assets/fonts/font-awesome/css/all.min.css" rel="stylesheet">
+        <link href="theme/frontend/alpha/build/assets/fonts/font-awesome/css/v4-shims.min.css" rel="stylesheet">
+    <link href="theme/frontend/css/style-basketball-dark.css" rel="stylesheet">
+    <link href="css/custom8fa7.css" rel="stylesheet">
+    <script>
+        window.addEventListener( "pageshow", function ( event ) {
+        var historyTraversal = event.persisted || 
+                               ( typeof window.performance != "undefined" && 
+                                    window.performance.navigation.type === 2 );
+        if ( historyTraversal ) {
+          window.location.reload();
+        }
+      });
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="../external.html?link=https://www.googletagmanager.com/gtag/js?id=G-1XZBZSKB65"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1XZBZSKB65');
+</script>
+</head>
+<body data-template="template-basketball">
+    <div class="site-wrapper clearfix">
+        <div class="site-overlay"></div>
+        <div class="site-content img-bg">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 text-center justify-content-center align-items-center">
+                        <img src="img/logo-lg.png" alt="logo" class="header-mobile__logo-img logo-img  mb-2">
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card">
+                            <div class="card__header">
+                                <h4>Login to your Account</h4>
+                            </div>
+                            <div class="card__content">
+                                                                                                                                <!-- Login Form -->
+                                <form method="POST" action="../external.html?link=https://wpc2021.live/login"><input type="hidden" name="_token" value="BPMbj8MqsH64U9oJ8NkQlTuhFwP2k11NvdSBg0Pn">
+                                                                        <div class="form-group">
+                                        <label for="login-name">Your Username</label>
+                                        <input type="text" name="username" id="username" class="form-control" placeholder="Enter your username...">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="login-password">Your Password</label>
+                                        <input type="password" name="password" id="password" class="form-control" placeholder="Enter your password...">
+                                    </div>                                    
+                                    <div class="form-group form-group--sm">
+                                        <button type="submit" class="btn btn-primary btn-lg btn-block">Sign in to your account</button>
+                                    </div>
+                                </form>                       
+                                    <div class="form-group form-group--pass-reminder">
+                                        <a href="password/reset.html">Forgot your password?</a>
+                                    </div>
+                                                                        <div class="form-group form-group--password-forgot">
+                                        <span class="password-reminder">Dont have an account yet? <a href="help.html" target="_blank">Contact Us</a></span>
+                                    </div>                                   
+                                    <div class="row">
+                                        <div class="col-sm-12">
+                                            <img src="img/pagcor_logo30f4.png" style="width: 200px">
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-12">
+                                            <a href="../external.html?link=https://webpay.lucky8star.com/?sid=wpc2021" target="_blank"><img src="img/online_cashin.png" class="mt-4"></a>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col">
+                                            <hr>
+                                            <label class="form-check-label" for="exampleCheck1">By using this site you agree with the <a href="terms.html" target="_blank">terms and conditions</a> and the <a href="privacy.html" target="_blank">privacy policy</a></label>
+                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+<!-- Mirrored from wpc2021.live/login by HTTrack Website Copier/3.x [XR&CO'2017], Fri, 15 Oct 2021 07:34:06 GMT -->
+</html>
